@@ -1,0 +1,42 @@
+# ===============================
+# Visual Studio / .NET
+# ===============================
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Mono / Visual Studio for Mac
+*.pidb
+*.userprefs
+*.vs/
+
+# Rider (sometimes used on Mac)
+.idea/
+
+# macOS system files
+.DS_Store
+
+# NuGet
+*.nupkg
+packages/
+*.nuget.props
+*.nuget.targets
+project.lock.json
+
+# Dotnet build artifacts
+artifacts/
+
+# Visual Studio Code (optional)
+.vscode/
+
+# Temporary files
+*.tmp
+*.temp
